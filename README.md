@@ -12,6 +12,14 @@ Packages used:-
 
 `Server.java`: This server Runs at 127.0.0.1 and Listen in port 9001. This server can handle multiple request at a time . It has been achived by using Java virtual Thread. 
 
+**STEPS TO RUN THE APPLICATION IN YOUR SYSTEM**
+
+1) Need to have JDK 18 installed in your system 
+2) Run `javac server.java` in your favourite terminal
+3) Run `java client.java`
+4) Start the server first by `java server`
+5) Open another terminal and connect clients by `java client`
+
 ![Screenshot from 2023-07-29 12-34-48](https://github.com/Zephyrus-Aadil/MultiThreaded-chat-application-in-JAVA/assets/72851384/501e0336-4b3b-4cc8-ab11-4c201c1870e4)
 
 
